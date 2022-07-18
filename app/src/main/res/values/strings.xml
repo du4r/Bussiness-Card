@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bussness Card</string>
+    <string name="label_business_card">Cartao de visita</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_email">email</string>
+    <string name="label_company">empresa</string>
+    <string name="label_color">cor</string>
+    <string name="create_button_text">criar</string>
+    <string name="label_show_success">Novo Cartão Adicionado!!!</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
